@@ -1,10 +1,10 @@
 module.exports = {
     // extraWatchFiles: ["**/*.md", "**/*.vue"],
-    title: "SAINTCLAIR SAINTGUENOLE",
+    title: "SAINT-CLAIR SAINT-GUENOLE",
     locales: {
         '/': {
             lang: 'fr-FR',
-            title: 'SAINTCLERC SAINTGUENOLE',
+            title: 'SAINT-CLERC SAINT-GUENOLE',
             description: 'Carnet de chants.'
         }
     },

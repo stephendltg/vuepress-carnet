@@ -2,21 +2,6 @@
 home: true
 navbar: true
 sidebar: false
-meta:
-  - name: "og:type"
-    content: siteWeb
-  - name: "og:title"
-    content: "ESA Grand Ouest"
-  - name: "og:description"
-    content: "Entretien des Systèmes Aérauliques."
-  - name: "image"
-    content: "https://esa-grandouest.nelify.com/agroalimentaire.jpeg"
-  - name: "url"
-    content: https://esa-grandouest.nelify.com
-  - name: "site_name"
-    content: ESAGO
-  - name: description
-    content: Entretien des Systèmes Aérolique.
 sitemap:
   exclude: false
   changefreq: hourly

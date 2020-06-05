@@ -70,7 +70,12 @@ module.exports = {
               '',
               'pages/'
             ]
-          }]
+          }],
+          "/pages/": getSideBar(
+            "pages",
+            "Why Salesforce?"
+          )
+          
         },
         searchPlaceholder: 'Rechercher'
     }

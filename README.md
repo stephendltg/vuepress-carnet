@@ -21,8 +21,8 @@ sitemap:
   exclude: false
   changefreq: hourly
 heroImage: /hero.png
-heroText: Entretien des Systèmes Aérauliques
-tagline: Mise en propreté et désinfection liée à la qualité de l'air
+heroText: Carnet de chants des paroisse Saint Clair et Saint Guénolé
+tagline: Que nos voix résonnent!
 pageClass: front
 actionText: Nos chants →
 actionLink: /pages/

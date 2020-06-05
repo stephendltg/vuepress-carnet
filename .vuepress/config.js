@@ -53,7 +53,7 @@ module.exports = {
         ],
         sidebar: {
           '/pages/': getGuideSidebar('Chants', 'Advanced'),
-        }
+        },
         searchPlaceholder: 'Rechercher'
     }
 }

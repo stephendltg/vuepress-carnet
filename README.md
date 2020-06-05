@@ -1,7 +1,6 @@
 ---
 home: true
 navbar: true
-sidebar: false
 sitemap:
   exclude: false
   changefreq: hourly

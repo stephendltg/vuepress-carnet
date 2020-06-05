@@ -63,7 +63,7 @@ module.exports = {
           ),
         },*/
         sidebar: {
-          '/pages': [{
+          '/': [{
             title: 'Docs',
             collapasble: true,
             children: [

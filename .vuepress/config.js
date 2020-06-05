@@ -55,11 +55,22 @@ module.exports = {
                 link: '/pages/mentions-legales.html'
             }
         ],
+        /*
         sidebar: {
           "/pages/": getSideBar(
             "pages",
             "Why Salesforce?"
           ),
+        },*/
+        sidebar: {
+          '/': [{
+            title: 'Docs',
+            collapasble: true,
+            children: [
+              '',
+              'pages/'
+            ]
+          }]
         },
         searchPlaceholder: 'Rechercher'
     }

@@ -72,7 +72,7 @@ function getGuideSidebar (groupA, groupB) {
       title: groupB,
       collapsable: false,
       children: [
-        ''
+        'mentions-legales'
       ]
     }
   ]

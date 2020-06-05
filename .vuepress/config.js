@@ -1,17 +1,17 @@
 module.exports = {
     // extraWatchFiles: ["**/*.md", "**/*.vue"],
-    title: "ESA GRAND-OUEST",
+    title: "SAINTCLAIR SAINTGUENOLE",
     locales: {
         '/': {
             lang: 'fr-FR',
-            title: 'ESA GRAND-OUEST',
-            description: 'Entretien des systèmes aérauliques. Mise en propreté et désinfection des installation acheminent de l’air.'
+            title: 'SAINTCLERC SAINTGUENOLE',
+            description: 'Carnet de chants.'
         }
     },
     head: [
         ['link', { rel: 'icon', href: `/logo.png` }],
         ['link', { rel: 'manifest', href: '/manifest.json' }],
-        ['link', { rel: 'canonical', href: 'https://esa-grandouest.netlify.app' }],
+        ['link', { rel: 'canonical', href: 'https://saintclair-saintguenole.netlify.app' }],
         ['meta', { name: 'theme-color', content: '#ffffff' }],
         ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
         ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'white' }],
@@ -24,7 +24,7 @@ module.exports = {
     ],
     plugins: [
         [
-        'sitemap', { hostname: 'http://esa-grandouest.netlify.app'}
+        'sitemap', { hostname: 'https://saintclair-saintguenole.netlify.app'}
         ],
         [
           '@vuepress/google-analytics',

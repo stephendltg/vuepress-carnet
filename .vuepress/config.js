@@ -1,3 +1,7 @@
+const fs = require("fs");
+const path = require("path");
+
+
 module.exports = {
     // extraWatchFiles: ["**/*.md", "**/*.vue"],
     title: "SAINT-CLAIR SAINT-GUENOLE",
@@ -52,28 +56,29 @@ module.exports = {
             }
         ],
         sidebar: {
-          '/pages/': getGuideSidebar('Chants', 'Advanced'),
+          "/pages/": getSideBar(
+            "pages",
+            "Why Salesforce?"
+          ),
         },
         searchPlaceholder: 'Rechercher'
     }
 }
 
 
-function getGuideSidebar (groupA, groupB) {
-  return [
-    {
-      title: groupA,
-      collapsable: false,
-      children: [
-        ''
-      ]
-    },
-    {
-      title: groupB,
-      collapsable: false,
-      children: [
-        'mentions-legales'
-      ]
-    }
-  ]
+
+
+function getSideBar(folder, title) {
+  const extension = [".md"];
+
+  const files = fs
+    .readdirSync(path.join(`${__dirname}/../${folder}`))
+    .filter(
+      item =>
+        item.toLowerCase() != "readme.md" &&
+        fs.statSync(path.join(`${__dirname}/../${folder}`, item)).isFile() &&
+        extension.includes(path.extname(item))
+    );
+
+  return [{ title: title, children: ["", ...files] }];
 }

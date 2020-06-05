@@ -55,13 +55,9 @@ module.exports = {
                 link: '/pages/mentions-legales.html'
             }
         ],
-        /*
         sidebar: {
-          "/pages/": getSideBar(
-            "pages",
-            "Why Salesforce?"
-          ),
-        },*/
+          "/pages/": getSideBar("pages", "Why Salesforce?")
+        },/*
         sidebar: {
           '/': [{
             title: 'Docs',
@@ -70,13 +66,9 @@ module.exports = {
               '',
               'pages/'
             ]
-          }],
-          "/pages/": getSideBar(
-            "pages",
-            "Why Salesforce?"
-          )
+          }]
           
-        },
+        },*/
         searchPlaceholder: 'Rechercher'
     }
 }

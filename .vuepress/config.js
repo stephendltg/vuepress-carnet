@@ -51,6 +51,40 @@ module.exports = {
                 link: '/pages/mentions-legales.html'
             }
         ],
+        sidebar: {
+          '/pages/': getGuideSidebar('Chants', 'Advanced'),
+        }
         searchPlaceholder: 'Rechercher'
     }
+}
+
+
+function getGuideSidebar (groupA, groupB) {
+  return [
+    {
+      title: groupA,
+      collapsable: false,
+      children: [
+        '',
+        'getting-started',
+        'directory-structure',
+        'basic-config',
+        'assets',
+        'markdown',
+        'using-vue',
+        'i18n',
+        'deploy'
+      ]
+    },
+    {
+      title: groupB,
+      collapsable: false,
+      children: [
+        'frontmatter',
+        'permalinks',
+        'markdown-slot',
+        'global-computed'
+      ]
+    }
+  ]
 }

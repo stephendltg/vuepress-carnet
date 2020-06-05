@@ -56,7 +56,7 @@ module.exports = {
             }
         ],
         sidebar: {
-          "/pages/": getSideBar("pages", "Why Salesforce?")
+          "/pages/": getSideBar("pages", "Carnet de chants")
         },/*
         sidebar: {
           '/': [{

@@ -22,8 +22,3 @@ footer: Livret de prières et de chants | Paroisses saint-clair saint-guenole | 
 
 ---
 
-
-## One-click Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stephendltg/vuepress-deploy)
-

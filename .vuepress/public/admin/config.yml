@@ -1,0 +1,25 @@
+backend:
+  name: github
+  repo: stephendltg/vuepress-carnet
+  branch: master
+
+public_folder: ".vuepress/dist/"
+media_folder: ".vuepress/dist/assets/img"
+
+collections:
+  - name: "chant"
+    label: "Chants"
+    folder: "chants"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "page"
+    label: "Pages"
+    folder: "pages"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}

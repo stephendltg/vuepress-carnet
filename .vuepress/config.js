@@ -60,8 +60,11 @@ module.exports = {
             }
         ],
         sidebar: {
-          "/chants/": getSideBar("chants", "Carnet de chants"),
-          "/pages/": getSideBar("pages", "Carnet de chants")
+          "/chants/": [
+            getSideBar("chants", "Carnet de chants"),
+            getSideBar("pages", "Pages"),
+          ],
+          "/pages/": [getSideBar("pages", "Carnet de chants")]
         },
         searchPlaceholder: 'Rechercher'
     }
@@ -82,5 +85,5 @@ function getSideBar(folder, title) {
         extension.includes(path.extname(item))
     );
 
-  return [{ title: title, children: ["", ...files] }];
+  return { title: title, collapsable: true, children: ["", ...files] };
 }

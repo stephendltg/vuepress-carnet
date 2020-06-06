@@ -62,7 +62,7 @@ module.exports = {
         sidebar: {
           "/chants/": [
             getSideBar("chants", "Carnet de chants"),
-            getSideBar("pages", "Pages"),
+            getSideBar("chants/messes", "Pages"),
           ],
           "/pages/": [getSideBar("pages", "Carnet de chants")]
         },

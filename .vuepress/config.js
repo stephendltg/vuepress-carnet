@@ -62,7 +62,7 @@ module.exports = {
         sidebar: {
           "/chants/": [
             getSideBar("chants", "Carnet de chants"),
-            getSideBar("chants/messes", "Pages"),
+            getSideBar("pages", "Pages"),
           ],
           "/pages/": [getSideBar("pages", "Carnet de chants")]
         },
@@ -85,5 +85,5 @@ function getSideBar(folder, title) {
         extension.includes(path.extname(item))
     );
 
-  return { title: title, collapsable: true, children: ["", ...files] };
+  return { title: title, children: ["", ...files] };
 }

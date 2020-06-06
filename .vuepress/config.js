@@ -9,7 +9,7 @@ module.exports = {
         '/': {
             lang: 'fr-FR',
             title: 'SAINT-CLERC SAINT-GUENOLE',
-            description: 'Carnet de chants.'
+            description: 'Livret de prières et de chants.'
         }
     },
     head: [
@@ -47,21 +47,26 @@ module.exports = {
         logo: '',
         smoothScroll: true,
         nav: [{
-                text: 'Nos Chants',
+                text: 'Chants',
                 link: '/chants/'
             },
             {
-                text: 'Pages',
-                link: '/pages/'
+                text: 'Prières',
+                link: '/prieres/'
             },
             {
                 text: 'Mentions légales',
                 link: '/pages/mentions-legales.html'
+            },
+            {
+                text: 'Aide',
+                link: '/pages/'
             }
         ],
         sidebar: {
           "/chants/": getSideBar("chants", "Carnet de chants"),
-          "/pages/": getSideBar("pages", "Carnet de chants")
+          "/prieres/": getSideBar("prieres", "Carnet de prières"),
+          "/pages/": getSideBar("pages", "Besoin d'aide")
         },
         searchPlaceholder: 'Rechercher'
     }

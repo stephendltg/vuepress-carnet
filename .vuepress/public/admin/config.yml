@@ -15,6 +15,14 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "priere"
+    label: "Prières"
+    folder: "prieres"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "page"
     label: "Pages"
     folder: "pages"

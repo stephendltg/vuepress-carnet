@@ -2,7 +2,7 @@
   "name": "vuepress-deploy",
   "version": "1.0.1",
   "repository": "https://github.com/stephendtlg/vuepress-deploy",
-  "description": "Site ESA Grand Ouest",
+  "description": "Livret paroisse",
   "author": "Stephen Deletang <s.deletang@laposte.net>",
   "license": "MIT",
   "scripts": {

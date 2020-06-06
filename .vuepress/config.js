@@ -55,10 +55,6 @@ module.exports = {
                 link: '/prieres/'
             },
             {
-                text: 'Mentions légales',
-                link: '/pages/mentions-legales.html'
-            },
-            {
                 text: 'Aide',
                 link: '/pages/'
             }

@@ -16,7 +16,7 @@ features:
 - title: Carnet de prières
   details: Liste des prières de la paroisse
 - title: Acces sans internet
-  details: Besoin d'acceder à votre livret, laissez vous guider en allant sur "Aide"
+  details: Besoin d'acceder à votre livret sans internet, laissez vous guider en allant sur "Aide"
 
 footer: Livret de prières et de chants | Paroisses saint-clair saint-guenole | Copyright © 2020 - present Him&Her
 

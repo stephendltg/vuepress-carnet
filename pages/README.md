@@ -6,7 +6,9 @@ title: Aides
 
 ## Utiliser votre livret
 
+::: tip Astuces
 Utiliser le champs de recherche, en tapant les premières lettres de la prière ou du chant et une proposition de resultat sera affiché.
+:::
 
 ---
 

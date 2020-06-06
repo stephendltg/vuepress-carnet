@@ -8,7 +8,7 @@ module.exports = {
     locales: {
         '/': {
             lang: 'fr-FR',
-            title: 'SAINT-CLERC SAINT-GUENOLE',
+            title: 'SAINT-CLAIR SAINT-GUENOLE',
             description: 'Livret de prières et de chants.'
         }
     },

@@ -4,7 +4,7 @@ navbar: true
 sitemap:
   exclude: false
   changefreq: hourly
-heroImage: 
+heroImage: /logo.png
 heroText: Livret des paroisses Saint Clair et Saint Guénolé
 tagline: Que nos voix résonnent!
 pageClass: front

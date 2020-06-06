@@ -44,7 +44,7 @@ module.exports = {
     themeConfig: {
         //host: 'localhost',
         docsDir: 'pages',
-        logo: '',
+        logo: '/logo.png',
         smoothScroll: true,
         nav: [{
                 text: 'Chants',

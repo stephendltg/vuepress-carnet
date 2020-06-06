@@ -47,7 +47,7 @@ module.exports = {
         logo: '/logo.png',
         smoothScroll: true,
         nav: [{
-                text: 'Nos prestations',
+                text: 'Nos Chants',
                 link: '/pages/'
             },
             {

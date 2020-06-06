@@ -1,6 +1,6 @@
 ---
 title: Bénit sois tu
 ---
-# benis soit tu
+# bénit sois tu
 
 ## refrain

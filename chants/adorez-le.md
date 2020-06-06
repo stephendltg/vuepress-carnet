@@ -1,8 +1,10 @@
 ---
 title: Adorez-le
 ---
-## Adorez-le
+# Adorez-le
 
+
+## Refrain
 Adorez-le, bénissez-le ! \
 Que la louange de vos chants le glorifie ! \
 Adorez-le, bénissez-le ! \

@@ -33,7 +33,7 @@ Email: [s.deletang@icloud.com](mailto:s.deletang@icloud.com?subject=[livret]%20C
 
 ## Droit d’auteur et propriété intellectuelle
 
-La présentation et chacun des éléments, y compris les marques, logos et noms de domaine, apparaissant sur le site www.esa-grandouest.fr, sont protégés par les lois en vigueur sur la propriété intellectuelle, et appartiennent à Stéphen Deletang ou font l’objet d’une autorisation d’utilisation.
+La présentation et chacun des éléments, y compris les marques, logos et noms de domaine, apparaissant sur le site, sont protégés par les lois en vigueur sur la propriété intellectuelle, et appartiennent à Stéphen Deletang ou font l’objet d’une autorisation d’utilisation.
 
 Aucun élément composant le Site (textes des articles, images, logos, code html, …) ne peut être copié, reproduit, modifié, réédité, chargé, dénaturé, transmis ou distribué de quelque manière que ce soit, sous quelque support que ce soit, de façon partielle ou intégrale, sans l’autorisation écrite et préalable de Stéphen Deletang et sous réserve du respect des droits de propriété intellectuelle et de tout autre droit de propriété dont il est fait mention. Seule la copie à usage privé est autorisée pour votre usage personnel, privé et non commercial, sur votre ordinateur personnel.
 

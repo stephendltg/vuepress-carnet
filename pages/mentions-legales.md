@@ -14,7 +14,7 @@ prev: ./
 
 <img :src="$withBase('/mentions.jpg')"  alt="mentions legales">
 
-Cette page contient l’ensemble des informations légales de la société ESA Grand Ouest. 
+Cette page contient l’ensemble des informations légales de l'application. 
 
 ### Informations légales
 
@@ -24,9 +24,7 @@ Responsable de la publication: Mr. Stéphen Deletang
 
 ### Nous contacter
 
-Email: [esa-grandouest@gmail.com](mailto:esa.grandouest@gmail.com?subject=[esa-grandouest]%20Contact%20mentions%20légales)
-
-Téléphone: <a href="tel:+330769695941" title="Téléphone">07 69 69 59 41</a>
+Email: [s.deletang@icloud.com](mailto:s.deletang@icloud.com?subject=[livret]%20Contact%20mentions%20légales)
 
 ## Hébergeur
 

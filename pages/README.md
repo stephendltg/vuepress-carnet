@@ -1,7 +1,5 @@
 ---
 title: Nos Chants
-next: ./mentions-legales
-prev: false
 ---
 
 # Chants

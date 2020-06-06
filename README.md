@@ -9,7 +9,7 @@ heroText: Carnet de chants des paroisses Saint Clair et Saint Guénolé
 tagline: Que nos voix résonnent!
 pageClass: front
 actionText: Nos chants →
-actionLink: /pages/
+actionLink: /chants/
 
 footer: Carnet de chants | Paroisses saint-clair saint-guenole | Copyright © 2020 - present Him&Her
 

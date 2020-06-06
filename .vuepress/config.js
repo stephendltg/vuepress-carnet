@@ -44,11 +44,15 @@ module.exports = {
     themeConfig: {
         //host: 'localhost',
         docsDir: 'pages',
-        logo: '/logo.png',
+        logo: '',
         smoothScroll: true,
         nav: [{
                 text: 'Nos Chants',
                 link: '/chants/'
+            },
+            {
+                text: 'Pages',
+                link: '/pages/'
             },
             {
                 text: 'Mentions légales',

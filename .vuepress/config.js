@@ -32,7 +32,7 @@ module.exports = {
         ],
         [
           '@vuepress/google-analytics',
-          { ga: 'UA-12345678-9' }
+          { ga: '' }
         ],
         ['@vuepress/pwa', {
           serviceWorker: true,
@@ -48,7 +48,7 @@ module.exports = {
         smoothScroll: true,
         nav: [{
                 text: 'Nos Chants',
-                link: '/pages/'
+                link: '/chants/'
             },
             {
                 text: 'Mentions légales',
@@ -56,19 +56,9 @@ module.exports = {
             }
         ],
         sidebar: {
+          "/chants/": getSideBar("chants", "Carnet de chants"),
           "/pages/": getSideBar("pages", "Carnet de chants")
-        },/*
-        sidebar: {
-          '/': [{
-            title: 'Docs',
-            collapasble: true,
-            children: [
-              '',
-              'pages/'
-            ]
-          }]
-          
-        },*/
+        },
         searchPlaceholder: 'Rechercher'
     }
 }

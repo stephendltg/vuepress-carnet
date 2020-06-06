@@ -64,7 +64,10 @@ module.exports = {
             getSideBar("chants", "Carnet de chants"),
             getSideBar("pages", "Pages"),
           ],
-          "/pages/": [getSideBar("pages", "Carnet de chants")]
+          "/pages/": [
+            getSideBar("pages", "Carnet de chants"),
+            getSideBar("chants", "Carnet de chants")
+          ]
         },
         searchPlaceholder: 'Rechercher'
     }

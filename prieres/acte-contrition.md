@@ -33,13 +33,13 @@ Ensuite le prêtre, témoin de la miséricorde, relève, encourage, fortifie dan
 
 ---
 
-# Acte de contrition
+## Acte de contrition
 
 Mon Dieu, j’ai un très grand regret de vous \
 avoir offensé parce que vous êtes infiniment \
 bon et que le péché vous déplaît. Je prends la \
 ferme résolution, avec le secours de votre \
 sainte grâce, de ne plus vous offenser et de \
-faire pénitence. \
+faire pénitence.
 
----
+

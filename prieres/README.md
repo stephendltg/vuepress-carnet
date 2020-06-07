@@ -2,7 +2,9 @@
 title: Les 4 prières
 ---
 
-# Je crois
+# Les 4 prières
+
+## Je crois
 
 Je crois en Dieu, le Père tout-puissant, \
 créateur du ciel et de la terre \
@@ -22,7 +24,7 @@ Je crois en l’Esprit-Saint, \
 
 ---
 
-# Notre père
+## Notre père
 
 Notre Père, qui es aux cieux, \
 que ton nom soit sanctifié, \
@@ -37,7 +39,7 @@ mais délivre-nous du Mal. \
 
 ---
 
-# Je vous salue marie
+## Je vous salue marie
 
 Je vous salue, Marie pleine de grâce \
 Le Seigneur est avec vous. \
@@ -51,7 +53,7 @@ Maintenant et à l’heure de notre mort. \
 ---
 
 
-# Gloire au père
+## Gloire au père
 
 Gloire au Père, et au Fils, et au Saint-Esprit. \
 Comme il était au commencement, maintenant et toujours, \

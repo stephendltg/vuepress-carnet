@@ -7,11 +7,9 @@
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build",
-    "start": "nodemon --ext md,vue --watch .vuepress --watch . --exec vuepress dev" 
+    "build": "vuepress build"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4",
     "vuepress": "^1.5.0"
   },
   "dependencies": {

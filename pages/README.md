@@ -39,6 +39,6 @@ Ouvrir l'application depuis safari et ajouter l'application sur l'écran d'accue
 
 Créer votre livret ( utilisateurs avertis )
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stephendltg/vuepress-deploy)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stephendltg/vuepress-carnet)
 
 

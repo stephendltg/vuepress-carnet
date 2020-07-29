@@ -37,7 +37,7 @@ La présentation et chacun des éléments, y compris les marques, logos et noms 
 
 Aucun élément composant le Site (textes des articles, images, logos, code html, …) ne peut être copié, reproduit, modifié, réédité, chargé, dénaturé, transmis ou distribué de quelque manière que ce soit, sous quelque support que ce soit, de façon partielle ou intégrale, sans l’autorisation écrite et préalable de Stéphen Deletang et sous réserve du respect des droits de propriété intellectuelle et de tout autre droit de propriété dont il est fait mention. Seule la copie à usage privé est autorisée pour votre usage personnel, privé et non commercial, sur votre ordinateur personnel.
 
-Sylvain Deletang se réserve le droit de poursuivre tout acte de contrefaçon de ses droits de propriété intellectuelle.
+Stephen Deletang se réserve le droit de poursuivre tout acte de contrefaçon de ses droits de propriété intellectuelle.
 
 ## Données personnelles
 
